@@ -1,0 +1,1 @@
+logout_locator="link:Logout"
